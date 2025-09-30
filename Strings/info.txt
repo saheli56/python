@@ -1,0 +1,27 @@
+strings is a characters
+1. immutable
+2. indexed eg: [p y t h o n] every letter in python woard content 1 index position value
+                0 1 2 3 4 5
+                right to left :- -ve
+                a = "python"  
+                print(a[0]) # left to right :- +ve
+                Ans:- p
+                print(a[-1]) # right to left :- -ve
+                Ans:- n
+
+3. iterable
+eg :- language = "python"
+      for i in language:
+        print(i)  
+
+numbers:- a-z A-Z !@#$%
+
+white space:- " "
+
+single quotes - 'python'
+
+double quotes - "python"
+
+triple quotes - '''python'''
+
+triple double quotes - """python"""
