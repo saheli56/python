@@ -1,0 +1,18 @@
+Python dictionary
+1. Definition and characterities
+key value pairs
+Unordered(before Python 3.7)
+Mutable
+2. Creation
+using  {} braces
+Using dict() contructor
+3. Operations
+Adding items
+uppdating items
+deleting items
+4. Methods
+get(), keys(), values(), items(), pop(), popitem(), clear(), update()
+5. Comprehension
+dictionary comprehension
+6. Nested dictionary
+7. common use cases
