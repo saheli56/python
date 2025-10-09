@@ -1,0 +1,4 @@
+1- polymorphism: One name multiple forms
+2- encapsulation: Hiding the internal state and requiring all interaction to be performed through an object's methods.
+3- inheritance: Mechanism where a new class can inherit properties and methods from an existing class.
+4- abstraction: Hiding complex implementation details and showing only the necessary parts.
