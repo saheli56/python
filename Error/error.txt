@@ -1,0 +1,5 @@
+Types of error
+
+a- compile time error
+b- run time error
+c- logical error
