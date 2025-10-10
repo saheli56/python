@@ -1,0 +1,5 @@
+file = open('C:\\python\\File Handling\\file.txt', 'w')
+content = input("Enter text to write to the file: ")
+file.write(content)
+print("Data written to file successfully.")
+file.close()
