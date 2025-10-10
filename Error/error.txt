@@ -3,3 +3,16 @@ Types of error
 a- compile time error
 b- run time error
 c- logical error
+exception ->
+1- start running
+2- Warning showing
+3- Catch and handle pilgrim crash
+
+Exception handling
+1- 0 division
+100 lines
+10-20 line > error
+Organized
+Try except 
+try code error 
+except
